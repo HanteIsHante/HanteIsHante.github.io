@@ -18,7 +18,7 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     woshihante
+weibo_username:     woshihante
 zhihu_username:      
 github_username:    HanteIsHante
 facebook_username:   
@@ -93,10 +93,12 @@ service-worker: true
 
 # Friends
 friends: [
+
     {
         title: "简书·BY",
         href: "http://www.jianshu.com/u/7203ddebbbbb"
-    },{
+    }, 
+    {
         title: "Android Developer",
         href: "https://developer.android.com/"
     }
